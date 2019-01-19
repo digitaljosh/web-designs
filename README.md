@@ -7,7 +7,7 @@ Personal, professional, and demo designs
 ### Pay It Forward
 #### Web app allowing users to create and accept volunteering opportunities.
 
-![payitforward-create-account-page-1](https://user-images.githubusercontent.com/25624304/51430169-ac5c5c80-1bdc-11e9-8b93-171a91e704af.jpg
+![payitforward-create-account-page-1](https://user-images.githubusercontent.com/25624304/51430169-ac5c5c80-1bdc-11e9-8b93-171a91e704af.jpg)
 
 ### Plan Eat
 #### Web app allowing users to search and save recipes and add them to a meal planning calendar.
