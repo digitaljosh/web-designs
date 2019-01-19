@@ -23,11 +23,6 @@ Personal, professional, and demo designs
 
 
 
-## Pay It Forward
-### Web app allowing users to create and accept volunteering opportunities.
-
-
-
 
 ## Plan Eat
 ### Web app allowing users to search and save recipes and add them to a meal planning calendar.
@@ -67,6 +62,4 @@ Personal, professional, and demo designs
 ![plan-eat-shopping-list-example](https://user-images.githubusercontent.com/25624304/51430801-c3537c80-1be5-11e9-8d69-81eec4096afb.png)
 
 
-## Plumbing Contractor
-### A demo landing page for plumbing/excavation contractor 
 
