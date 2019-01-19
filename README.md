@@ -1,2 +1,2 @@
-# web-designs
-Various designs for the web
+# Web Designs
+Personal, professional, and demo designs 
